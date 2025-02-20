@@ -5,7 +5,7 @@ Alors j'ai une question rapide pour toi : Pourquoi les data analysts préfèrent
 Parce qu'il y a moins de risques de conflits... de données ! 
 Ainsi, il est important de se rappeler que chaque clic, chaque "like" et chaque partage laisse une trace numérique qui peut en dire long sur nous.
 
-🤝 Objectif : Contribuer à des projets Open Source et developper des Modèles de Machine Learning puissant pour des prédictions se rapprochant des 97%.
+🤝 Objectif : Contribuer à des projets Open Source et developper des Modèles de Machine Learning puissant pour des prédictions se rapprochant des 97% de réussite.
 
 👨‍💻 Toujours à la recherche d'opportunités pour mettre en pratique mes compétences et continuer à évoluer.
 
