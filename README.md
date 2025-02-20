@@ -12,7 +12,7 @@ Ainsi, il est important de se rappeler que chaque clic, chaque "like" et chaque 
 💬 Posez-moi des questions
 
 ⚡ Le Data Analyst est une passion et non une profession.
-- 📫 Comment me contacter : WhatsApp +33 7 66 51 41 33
+- 📫 Comment me contacter : sontsachristian@gmail.com
 
 <!---
 Sontsa1998/Sontsa1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
